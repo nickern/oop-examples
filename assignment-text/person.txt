@@ -1,6 +1,6 @@
 Oppgave: Lag klassene Person og PrivatePerson
 
-Det skal lages 2 seperate klasser Person og PrivatePerson.
+Det skal lages 2 seperate klasser Person og PrivatePerson. (Starten av klassene ligger lengere nede i oppgaveteksten hvis du trenger hjelp å komme i gang.)
 Disse 2 skal innholde følgende info hvorav i Person skal disse være public og i PrivatePerson skal de være private:
 NB: Disse verdiene skal ikke fylles inn! Info skrives inn når du oppretter en ny instans av objektet. 
 	-String firstName
@@ -18,3 +18,37 @@ Ekstra: Hvis du skriver objektet in i en system.out.println så får du en krypi
 
 
 Fasit: https://github.com/nickern/oop-examples/tree/master/src/person
+
+
+public class Person { 
+	/* 
+	* Public Class variables 
+	* firstname 
+	* lastname 
+	* age 
+	*/ 
+
+	public String firstname; 
+ }
+ 
+ public class PrivatePerson { 
+	/* 
+	* Private variables 
+	*/ 
+	private String firstname; 
+	private String lastname; 
+	private int age; 
+
+	/* 
+	* Create public methods for assigning and returning values from 
+	* variables 
+	*/ 
+
+	public String getFirstname() { 
+		return firstname; 
+	} 
+
+	public void setFirstname(String firstname) { 
+		this.firstname = firstname; 
+	}
+}
