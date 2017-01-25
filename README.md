@@ -8,15 +8,17 @@ These examples where made in Eclipse Neon.2
 
 ## Description of packages
 
-###### parents
+##### parents
 Example of Java inheritance using extends
 
-###### statisk
+##### statisk
 Example of static variables and methods
 
-###### gettersAndSetters
+##### gettersAndSetters
 Example of of a class with private variables that require setters and getters 
 
+##### basicCalc
+Example of a simple calculator that adds 2 values
 
 ## Credits
 Made by Berzy Wasfy (theberzer) and Nicolai Naglestad (nickern)
