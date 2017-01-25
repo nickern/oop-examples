@@ -1,4 +1,4 @@
-package lecture1;
+package gettersAndSetter;
 
 import java.util.ArrayList;
 

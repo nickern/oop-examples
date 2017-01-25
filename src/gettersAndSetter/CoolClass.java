@@ -1,4 +1,4 @@
-package lecture1;
+package gettersAndSetter;
 
 //Start of the class
 public class CoolClass {
