@@ -20,6 +20,9 @@ Example of of a class with private variables that require setters and getters
 ##### basicCalc
 Example of a simple calculator that adds 2 values
 
+##### structure
+Example of how to structure a Java document
+
 ## Credits
 Made by Berzy Wasfy (theberzer) and Nicolai Naglestad (nickern)
 
