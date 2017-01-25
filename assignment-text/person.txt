@@ -17,8 +17,6 @@ Ekstra: Hvis du skriver objektet in i en system.out.println så får du en krypi
 (Hint: Object klassen har en toString metode, som kjøres når objecter skrives ut til console)
 
 
-Fasit: https://github.com/nickern/oop-examples/tree/master/src/person
-
 
 public class Person { 
 	/* 
