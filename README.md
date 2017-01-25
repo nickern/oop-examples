@@ -1,13 +1,4 @@
-Java examples to be used by Østfold University College object-oriented programming class.
-
-Examples are made in Eclipse Neon and are located in the src folder.
-
-Description of packages:
-parents - 
-
-<snippet>
-  <content><![CDATA[
-# ${1:OOP Examples}
+# OOP Examples
 
 
 Here are Java OOP examples for Østfold University College.
@@ -29,9 +20,4 @@ Example of of a class with private variables that require setters and getters
 
 ## Credits
 Made by Berzy Wasfy (theberzer) and Nicolai Naglestad (nickern)
-
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
 
