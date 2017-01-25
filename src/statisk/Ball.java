@@ -6,7 +6,6 @@ public class Ball {
 	public Integer id;
 	public static int teller;
 	public static ArrayList<Ball> ballListe = new ArrayList<>();
-	
 	private String farge;
 
 	public Ball() {
