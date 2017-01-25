@@ -11,6 +11,11 @@ public class Vehicle {
 		this.model = model;
 		this.year = year;
 	}
+	
+	public Vehicle() {
+		
+	}
+	
 
 	public String getMake() {
 		return make;
